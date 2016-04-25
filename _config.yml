@@ -2,11 +2,11 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               DevAcumen
+tagline:             A software developer's judgments and decisions.
+url:                 http://devacumen.co.uk
 paginate:            1
-baseurl:             ""
+baseurl:             http://devacumen.co.uk
 
 # Assets
 #
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Andy Nutt
+  url:               http://andynutt.co.uk
+  email:             andyrobertnutt@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/AndyRN/devacumen
 
 # Gems
 gems:
