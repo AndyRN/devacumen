@@ -6,7 +6,7 @@ title:               DevAcumen
 tagline:             A software developer's judgments and decisions.
 url:                 http://devacumen.co.uk
 paginate:            1
-baseurl:             http://devacumen.co.uk
+baseurl:             ''
 
 # Assets
 #
