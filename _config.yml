@@ -5,7 +5,7 @@ permalink:           pretty
 title:               DevAcumen
 tagline:             A software developer's judgments and decisions.
 url:                 http://devacumen.co.uk
-paginate:            1
+paginate:            10
 baseurl:             ''
 
 # Assets

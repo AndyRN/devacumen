@@ -4,7 +4,7 @@ title: How to run your Jekyll blog locally
 comments: true
 ---
 
-#### Requirements
+### Requirements
 
 <i>Note: These steps are specifically for Windows</i>
 
@@ -13,7 +13,7 @@ comments: true
 * A local repo of your blog
 
 
-### Installing Ruby Development Kit
+## Installing Ruby Development Kit
 
 1. Download the DevKit for your version of Ruby.
 
@@ -36,7 +36,7 @@ ruby dk.rb install
 </code>
 
 
-### Creating a Gemfile
+## Creating a Gemfile
 
 1. Within the root of your blog repo, create a new file named "Gemfile" (no extension).
 
@@ -48,7 +48,7 @@ gem 'github-pages', group: :jekyll_plugins
 {% endhighlight %}
 
 
-### Installing Bundler
+## Installing Bundler
 
 1. Open Git Bash.
 
@@ -58,7 +58,7 @@ gem install bundler
 </code>
 
 
-### Installing Jekyll
+## Installing Jekyll
 
 1. Open Git Bash.
 
@@ -73,7 +73,7 @@ bundle install
 </code>
 
 
-### Building your blog
+## Building your blog
 
 1. Open Git Bash.
 
