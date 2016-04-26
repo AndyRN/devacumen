@@ -5,6 +5,8 @@ title: How to run your Jekyll blog locally
 
 ### Requirements
 
+<i>Note: These steps are specifically for Windows</i>
+
 * <a href="https://git-scm.com/">Git</a>
 * <a href="http://rubyinstaller.org/downloads/">Ruby 2.0.0+</a>
 * A local repo of your blog
@@ -76,6 +78,5 @@ bundle exec jekyll serve
 </code>
 
 4. Visit your blog! (default URL)
-{% highlight text %}
-http://localhost:4000
-{% endhighlight %}
+
+        http://localhost:4000
