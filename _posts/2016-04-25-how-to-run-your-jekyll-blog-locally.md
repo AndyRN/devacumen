@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to run your Jekyll blog locally
+comments: true
 ---
 
 #### Requirements
