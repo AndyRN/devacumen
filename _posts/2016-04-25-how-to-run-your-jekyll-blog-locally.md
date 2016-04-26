@@ -12,6 +12,7 @@ comments: true
 * <a href="http://rubyinstaller.org/downloads/">Ruby 2.0.0+</a>
 * A local repo of your blog
 
+
 ### Installing Ruby Development Kit
 
 1. Download the DevKit for your version of Ruby.
@@ -34,6 +35,19 @@ ruby dk.rb init
 ruby dk.rb install
 </code>
 
+
+### Creating a Gemfile
+
+1. Within the root of your blog repo, create a new file named "Gemfile" (no extension).
+
+2. Copy these lines into the file:
+        
+{% highlight text %}
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
+{% endhighlight %}
+
+
 ### Installing Bundler
 
 1. Open Git Bash.
@@ -43,26 +57,21 @@ ruby dk.rb install
 gem install bundler
 </code>
 
+
 ### Installing Jekyll
 
-1. Create a new file named "Gemfile".
+1. Open Git Bash.
 
-2. Add these lines to the file: 
-
-        source 'https://rubygems.org'
-        gem 'github-pages', group: :jekyll_plugins
-
-3. Open Git Bash.
-
-4. Navigate to your blog repo.
+2. Navigate to your blog repo.
 <br/><code>
 cd &lt;local_repo&gt;
 </code>
 
-5. Install Jekyll.
+3. Install Jekyll.
 <br/><code>
 bundle install
 </code>
+
 
 ### Building your blog
 
@@ -80,4 +89,6 @@ bundle exec jekyll serve
 
 4. Visit your blog! (Default URL)
 
-        http://localhost:4000
+{% highlight text %}
+http://localhost:4000
+{% endhighlight %}
