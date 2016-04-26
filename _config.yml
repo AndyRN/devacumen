@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/AndyRN/devacumen
+  repo:              https://github.com/AndyRN
 
 # Gems
 gems:
