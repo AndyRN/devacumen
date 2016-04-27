@@ -76,3 +76,21 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+
+// Images
+//
+// Style to manage the images around the site.
+
+img[alt="RubikFix Connected Devices"] { 
+    width: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img[alt="RubikFix Hello World"] { 
+    width: 270px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
