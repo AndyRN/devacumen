@@ -16,7 +16,7 @@ This post goes into detail about my fantastic gaming machine, "Titan". Even thou
 
 <b><a href="http://www.corsair.com/en-gb/obsidian-series-350d-micro-atx-pc-case">Corsair 350D Micro ATX</a></b>
 
-My first venture into the Micro ATX world. It's been a lot tidier not having my PC take up so much space in my room, also making it easier move around or pack into the car. On top of that, the simple & clean feel that this compact case has is a satisfying bonus.
+My first venture into the Micro ATX world. It's a lot tidier not having my PC take up so much space next to my desk. Also, it's so much easier move around or pack into the car. On top of that, the simple & clean design of this compact case comes across satisfyingly mature.
 
 
 ## Motherboard
