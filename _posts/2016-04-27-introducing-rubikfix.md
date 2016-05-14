@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing - RubikFix
+title: "Introducing - RubikFix"
 comments: true
 permalink: introducing-rubikfix
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to run your Jekyll blog locally
+title: "How to run your Jekyll blog locally"
 comments: true
 permalink: how-to-run-your-jekyll-blog-locally
 ---
