@@ -5,9 +5,9 @@ comments: true
 permalink: my-current-desktop-pc-build
 ---
 
-This post goes into detail about my fantastic gaming machine, "Titan". Even though it's had many modifications since I first used the name, I like to think it's still the same PC that's given me incredible gaming and cinematic experiences, enabled me to learn & explore the world of programming and provided me with the tools to create over the years.
+This post goes into detail about my desktop, "Titan". Even though it's had many modifications since I first used the name, I like to think it's still the same PC that's given me incredible gaming and cinematic experiences, enabled me to learn & explore the world of programming and provided me with the tools to create over the years.
 
-<i>Similar to the <a href="https://en.wikipedia.org/wiki/Ship_of_Theseus">Ship of Thesues</a>, right?</i>
+<i>Similar to the <a href="https://en.wikipedia.org/wiki/Ship_of_Theseus">Ship of Theseus</a>, right?</i>
 
 
 ## Case
@@ -16,7 +16,7 @@ This post goes into detail about my fantastic gaming machine, "Titan". Even thou
 
 <b><a href="http://www.corsair.com/en-gb/obsidian-series-350d-micro-atx-pc-case">Corsair 350D Micro ATX</a></b>
 
-My first venture into the Micro ATX world. It's a lot tidier not having my PC take up so much space next to my desk. Also, it's so much easier move around or pack into the car. On top of that, the simple & clean design of this compact case comes across satisfyingly mature.
+My first venture into the Micro ATX world. It's a lot tidier not having my PC take up so much space next to my desk. Also, it's so much easier move around or pack into the car. On top of that, the simple & clean design of this compact case comes is perfect.
 
 
 ## Motherboard
@@ -47,7 +47,7 @@ To keep it nice and cool (and quiet), I'm using a <a href="http://www.corsair.co
 
 <b><a href="https://asset.msi.com/resize/image/global/product/product_7_20160309182104_56dff910f1378.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png">MSi GTX 970 - 4GB</a></b>
 
-I've always been on Nvidia's side of the fence, but there was a lot of controversy surrounding the launch of this card. However, I've had nothing but incredible performance from it. Saying that, I am only running a 1920x1200 & 1920x1080 monitor setup, whereas the issues only seem to arise when you enter the realms of 4K. But hey, we've got the GTX 10 series right around the corner... 
+I've always been on Nvidia's side of the fence, but there was a lot of controversy surrounding the launch of this card. However, I've had nothing but incredible performance from it. Saying that, I am only running a dual 1080p setup... 
 
 
 ## RAM
@@ -56,7 +56,7 @@ I've always been on Nvidia's side of the fence, but there was a lot of controver
 
 <b><a href="http://www.corsair.com/en-gb/vengeance-4gb-single-module-ddr3-memory-kit-cmz4gx3m1a1600c9">Corsair Vengeance DDR3 - 16GB (4x4)</a></b>
 
-Four of these nicely fill up the RAM channels on the motherboard, alternating black & blue as an attempt to be stylish. Although I'm yet to move into the world of DDR4, having these run at 1600MHz is all I can foresee needing for a while...
+Four of these nicely fill up the RAM channels on the motherboard, alternating black & blue as an attempt to be stylish. Although, I'm yet to move into the world of DDR4.
 
 
 ## SSD/HDD
